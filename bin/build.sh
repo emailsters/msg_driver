@@ -1,0 +1,11 @@
+#! /bin/sh
+cd ../thirdparty/tinyxml/
+make clean;make
+cd ../../platform
+make clean;make
+cd ../test_component_one/
+make clean;make
+cd ../test_component_two/
+make clean;make
+cd ../main_proc
+make clean;make

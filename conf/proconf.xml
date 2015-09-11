@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<process name="main">
+    <component name="test_component_one" cid="1" />
+    <component name="test_component_two" cid="2" />
+</process>
